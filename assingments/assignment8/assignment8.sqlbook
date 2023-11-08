@@ -6,7 +6,7 @@
 <font size = "5">
 Add a comment with your Emory ID below
 -- SQLBook: Code
--- Write your own code
+-- Yukai Chen S2539356
 
 -- SQLBook: Markup
 <font size = "5">
@@ -14,7 +14,8 @@ Add a comment with your Emory ID below
 (a) Create a new SQL database called formula1
 -- SQLBook: Code
 -- Write your own code
-
+CREATE TABLE formula1(
+);    
 -- SQLBook: Markup
 
 <font size = "5">
